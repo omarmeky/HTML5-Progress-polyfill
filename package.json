@@ -1,0 +1,14 @@
+{
+  "name": "html5-progress-polyfill",
+  "version": "0.0.0",
+  "description": "Polyfill for the HTML5 <progress> element http://lea.verou.me/polyfills/progress/.",
+  "main": "progress-polyfill.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omarmeky/HTML5-Progress-polyfill.git"
+  },
+  "author": "Based on HTML5-Progress-polyfill by LeaVerou, forked and modified by Omar Meky"
+}
